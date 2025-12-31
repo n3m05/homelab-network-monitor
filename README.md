@@ -1,3 +1,5 @@
+![Health Check Status](https://github.com/n3m05/homelab-network-monitor/actions/workflows/check_health.yml/badge.svg)
+
 # 🛡️ Homelab Network Watchdog
 
 A Python-based infrastructure monitoring tool that bridges the gap between System Administration and Software Development. This tool performs lightweight ICMP health checks on local devices and provides real-time alerts.
